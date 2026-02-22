@@ -1,0 +1,7 @@
+websockets
+httpx
+sortedcontainers
+fastapi
+uvicorn[standard]
+dash>=2.14.0
+psutil
